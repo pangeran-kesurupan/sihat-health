@@ -63,10 +63,10 @@ export function MapSection() {
               className="text-ink-900 tracking-tight mb-4"
               style={{ fontSize: 'clamp(32px, 4vw, 48px)', fontWeight: 700 }}
             >
-              Peta Interaktif Kesehatan
+              Peta Interaktif Lingkungan
             </h2>
             <p className="text-ink-700 max-w-3xl mx-auto" style={{ fontSize: '18px' }}>
-              Visualisasi distribusi fasilitas kesehatan dan indikator kesehatan masyarakat Banjarbaru
+              Visualisasi Lingkungan dan indikator kesehatan masyarakat Banjarbaru
             </p>
           </div>
         </SectionReveal>
